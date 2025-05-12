@@ -1,0 +1,7 @@
+title: SpatialExperiment
+url: https://bioconductor.github.io/SpatialExperiment
+
+template:
+  bootstrap: 5
+  params:
+    bootswatch: flatly
